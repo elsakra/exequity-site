@@ -1,0 +1,79 @@
+{
+  "company": {
+    "name": "Exequity",
+    "tagline": "Independent Board and Management Advisors",
+    "description": "Exequity is a premier provider of compensation consulting services to boards of directors and management teams. Founded in 2006, we have been at the forefront of partnering with boards and senior management teams on complex issues involving executive compensation, governance, talent management, and corporate transactions.",
+    "phone": null,
+    "email": null,
+    "address": null,
+    "hours": null
+  },
+  "branding": {
+    "logo": "https://res.cloudinary.com/dil14r8je/image/upload/v1768919906/auto-site-builder/Exequity/image_0.png",
+    "primaryColor": "#1e40af",
+    "secondaryColor": null
+  },
+  "hero": {
+    "headline": "Exequity Is a Premier Provider of Board Advisory Services",
+    "subheadline": "Full-Service, Independent Executive Compensation Consulting Firm",
+    "cta": {
+      "label": "CONTACT US",
+      "href": "/contact"
+    },
+    "secondaryCta": null,
+    "backgroundImage": "https://plus.unsplash.com/premium_photo-1661663373098-003886896551?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8cHJvZmVzc2lvbmFsJTIwd29ya3NwYWNlJTIwY2xlYW58ZW58MHwwfHx8MTc2ODg2NTI3MXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "sections": {
+    "about": {
+      "headline": "About Us",
+      "content": "Founded in 2006, Exequity was among the first firms to recognize and act upon the need for independent compensation advisory services. Since that time, we have been at the forefront of partnering with boards and senior management teams on complex issues involving executive compensation, governance, talent management, and corporate transactions. Exequity is recognized as a leader in the executive pay arena, advising hundreds of clients across all industries.",
+      "image": "https://plus.unsplash.com/premium_photo-1677529498680-fdb9d5ee762a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8dGVhbSUyMGNvbGxhYm9yYXRpb24lMjBvZmZpY2V8ZW58MHwwfHx8MTc2ODg2OTU2N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    "services": {
+      "headline": "Our Services"
+    },
+    "team": {
+      "headline": "Our Team"
+    },
+    "testimonials": {
+      "headline": "What Our Clients Say"
+    },
+    "contact": {
+      "headline": "Contact Us"
+    }
+  },
+  "navigation": {
+    "items": [
+      {
+        "label": "About",
+        "href": "/about"
+      },
+      {
+        "label": "Services",
+        "href": "/services"
+      },
+      {
+        "label": "Blog",
+        "href": "/blog"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact"
+      }
+    ],
+    "ctaButton": {
+      "label": "CONTACT US",
+      "href": "/contact"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Exequity LLP. All rights reserved.",
+    "socialLinks": {
+      "facebook": null
+    }
+  },
+  "seo": {
+    "title": "Exequity - Independent Board and Management Advisors",
+    "description": "Exequity is a premier provider of compensation consulting services to boards of directors and management teams. Exequity consults on all aspects of executive compensation including benchmarking, design, technical, and transactions."
+  }
+}
